@@ -11,11 +11,11 @@ entries:
      regression and LIME models are deployed using CML's real-time model deployment capability and interact with a 
      basic Flask-based web application.
      image_path: >-
-      https://raw.githubusercontent.com/cloudera/Applied-ML-Prototypes/master/images/churn-prediction.jpg
+      https://github.com/Gopinathnagarajank/amp_test/blob/main/churn-prediction.jpeg
     tags:
       - Churn Prediction
       - Logistic Regression
       - Explainability
       - Lime
-    git_url: "https://github.com/cloudera/CML_AMP_Churn_Prediction"
+    git_url: "https://github.com/Gopinathnagarajank/churn_amp"
     is_prototype: true
